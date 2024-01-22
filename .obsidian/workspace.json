@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "61988a4fcc0c75ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d350d11360bc9a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fffbb886a28254e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "acac007071ae6e83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41be55b526bba46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0aef72d364eda9c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d713c225f2cf8a09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5b6693714d50ddc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6e20228f1f68818",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b168bb2e436d9206",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20c697de8e650667",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e686dd586b43839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a13cc7ac73ea06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74829e434f1241e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4df83119014b6e0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56afbef46f8737a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Gyors váltó megnyitása": false,
+      "graph:Grafikon nézet megnyitása": false,
+      "canvas:Új vászon létrehozása": false,
+      "daily-notes:Mai jegyzet megnyitása": false,
+      "templates:Sablon beszúrása": false,
+      "command-palette:Parancspaletta megnyitása": false
+    }
+  },
+  "active": "4fffbb886a28254e",
+  "lastOpenFiles": [
+    "Welcome.md"
+  ]
+}
