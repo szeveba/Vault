@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +156,11 @@
       "command-palette:Parancspaletta megnyitása": false
     }
   },
-  "active": "4fffbb886a28254e",
+  "active": "a41be55b526bba46",
   "lastOpenFiles": [
-    "Welcome.md"
+    "WPF.md",
+    "Welcome.md",
+    "grafikus felhasználói felület.md",
+    "Vektorgrafika.md"
   ]
 }
